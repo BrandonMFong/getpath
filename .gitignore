@@ -1,2 +1,4 @@
 bin
 build
+getpath-linux
+getpath-macos
